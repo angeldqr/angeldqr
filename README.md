@@ -1,5 +1,6 @@
 <h1>
-    <tt>🫀> De parvis grandis acervus erit.</tt>
+    <tt>🫀> Mientras tenga mi pasado conmigo, puedo plantar ambos pies con más fuerza.
+    Si uno sabe quién es uno mismo, las dudas, la vacilación y la ansiedad desaparecen.</tt>
 </h1>
 
 # 📊 GitHub Stats:
